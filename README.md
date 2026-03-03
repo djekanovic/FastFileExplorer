@@ -55,8 +55,6 @@ No installation required — just run the `.exe`. Windows 10/11 has WebView2 bui
 | Backend | Go — file I/O, concurrent folder sizing, Windows API calls |
 | Frontend | Vanilla JS + Vite — zero framework overhead |
 | Bridge | Wails v2 — wraps WebView2 (built into Windows 10/11) |
-| Scroll | Virtual scroll with absolute positioning — no layout thrash |
-| Icon embedding | Windows PE resource via multi-res `.ico` |
 
 ---
 
