@@ -1,4 +1,4 @@
-<h1><img src="assets/appicon.png" width="36" height="36" align="absmiddle" /> FastFileExplorer</h1>
+<h1><img src="assets/appicon.png" width="36" height="36" align="absmiddle" /> Fast File Explorer</h1>
 
 A lightning-fast Windows file explorer with real-time folder sizes, Quick Look preview, and a sleek dark UI — built with Go and Wails.
 
