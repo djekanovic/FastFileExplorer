@@ -30,33 +30,6 @@ No installation required — just run the `.exe`. Windows 10/11 has WebView2 bui
 
 ---
 
-## Build from source
-
-### Prerequisites
-
-| Tool | Version |
-|------|---------|
-| Go   | 1.21+   |
-| Node.js | 18+  |
-| Wails CLI | v2 |
-
-Install Wails:
-
-```bash
-go install github.com/wailsapp/wails/v2/cmd/wails@latest
-```
-
-### Build
-
-```bash
-git clone https://github.com/djekanovic/FastFileExplorer.git
-cd FastFileExplorer
-wails build
-```
-
-Output: `build/bin/FastFileExplorer.exe`
-
----
 
 ## Keyboard shortcuts
 
