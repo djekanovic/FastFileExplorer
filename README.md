@@ -92,10 +92,3 @@ Output: `build/bin/FastFileExplorer.exe`
 - Windows 10 or Windows 11
 - No additional runtime — WebView2 is built into the OS
 
----
-
-## License
-
-Copyright (c) 2026 Dimitrije Djekanovic. All rights reserved.
-This source code is provided for **viewing and educational purposes only**.
-See [LICENSE](LICENSE) for full terms.
